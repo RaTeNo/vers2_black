@@ -242,6 +242,8 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/vers2_black/index.html",
+		"/C/xampp/htdocs/vers8/index.php",
 		"/C/xampp/htdocs/vers2_black/css/styles.css",
 		"/C/xampp/htdocs/vers2_black/js/scripts.js",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/index.html",
@@ -264,7 +266,6 @@
 		"/C/xampp/htdocs/vers2_black/css/response_1023.css",
 		"/C/xampp/htdocs/vers2_black/css/response_1185.css",
 		"/C/xampp/htdocs/vers2_black/category.html",
-		"/C/xampp/htdocs/vers2_black/index.html",
 		"/C/xampp/htdocs/vers2_black/news.html",
 		"/C/xampp/htdocs/vers2_black/css/ion.rangeSlider.css",
 		"/C/xampp/htdocs/vers2_black/css/owl.carousel.css",
@@ -368,12 +369,11 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/taxonomy-forecasts.php",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/page-test.php",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/page-home.php",
-		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/css/styles.css",
-		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/index.html"
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/css/styles.css"
 	],
 	"find":
 	{
-		"height": 48.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
