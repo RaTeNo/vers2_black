@@ -243,6 +243,7 @@
 	"file_history":
 	[
 		"/C/xampp/htdocs/vers2_black/index.html",
+		"/C/xampp/htdocs/vers2_black/css/response_1023.css",
 		"/C/xampp/htdocs/vers8/index.php",
 		"/C/xampp/htdocs/vers2_black/css/styles.css",
 		"/C/xampp/htdocs/vers2_black/js/scripts.js",
@@ -263,7 +264,6 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/.htaccess",
 		"/C/xampp/htdocs/vers2_black/css/response_479.css",
 		"/C/xampp/htdocs/vers2_black/css/response_767.css",
-		"/C/xampp/htdocs/vers2_black/css/response_1023.css",
 		"/C/xampp/htdocs/vers2_black/css/response_1185.css",
 		"/C/xampp/htdocs/vers2_black/category.html",
 		"/C/xampp/htdocs/vers2_black/news.html",
@@ -373,7 +373,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -521,7 +521,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers\\project1.sublime-project"
+				"C:\\xampp\\htdocs\\vers5_black\\project5_black.sublime-project"
 			]
 		],
 		"width": 380.0
