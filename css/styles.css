@@ -4391,7 +4391,6 @@ aside>*:last-child {
     margin-top: 75px;
     margin-bottom: -36px;
     margin-left: -36px;
-    justify-content: center;
 }
 
 .gallery .flex>* {
@@ -4503,7 +4502,6 @@ aside>*:last-child {
 
 .gallery .flex.images {
     margin-top: 50px;
-    justify-content: center;
 }
 
 .gallery .flex.images>* {
@@ -4522,7 +4520,6 @@ aside>*:last-child {
     margin-top: 75px;
     margin-bottom: -36px;
     margin-left: -36px;
-    justify-content: center;
 }
 
 .gallery2 .flex>* {
