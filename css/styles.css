@@ -7704,3 +7704,21 @@ header.fixed .info {
                 transform: translateY(-100px);
     }
 }
+
+
+.poll .desc ul, .poll .desc ol, .text_block ul, .text_block ol{
+    margin: 30px 0 30px 50px;
+}
+
+.poll .desc table, .text_block table{
+    margin:20px 0;
+}
+
+
+.poll .desc table td, .text_block table td{
+    padding: 20px;
+}
+
+.product_info .description{
+    overflow: auto;
+}
