@@ -1499,4 +1499,16 @@
         font-size: 18px;
         line-height: 20px;
     }
+    aside .block{
+        background:#fff;
+    }
+    aside .block .title{
+        color:#000;
+    }
+    aside .cats label{
+         color:#000;
+    }
+    aside .filter .range .name{
+         color:#000;
+    }
 }
