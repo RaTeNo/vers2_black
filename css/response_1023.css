@@ -113,7 +113,7 @@
         left: 0;
 
         width: 310px;
-        height: auto;
+        height: 100%;
         margin: 0;
 
         transition: transform .3s linear;
@@ -131,7 +131,7 @@
         display: flex;
         overflow: auto;
 
-        height: 100vh;
+        height: 100%;
         padding: 0;
 
         justify-content: flex-start;
@@ -169,6 +169,7 @@
         width: 100%;
         margin: 0;
         padding-top: 25px;
+        padding-bottom: 25px;
     }
 
     header .contacts .phones>* {
