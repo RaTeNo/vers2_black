@@ -502,7 +502,6 @@ body.lock {
 }
 
 .form textarea {
-    color: var(--text_color);
     font: var(--font_size)/30px var(--font_family);
 
     display: block;

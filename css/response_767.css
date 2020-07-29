@@ -736,11 +736,20 @@
     }
 
     .big_boss_quote .img {
-        display: none;
-
+        display: block;
         margin: 35px auto 0;
+        height: 400px;
+        order: -1;
+        width: 100%;
     }
-
+    
+    .big_boss_quote .img > *{
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 
 
     .video_reviews .slider {
