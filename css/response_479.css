@@ -864,4 +864,8 @@
      .product_info .buy .back_link{
         font-size:15px;
     }
+
+     .products_category .flex>*{
+        width: calc(100%);
+    }
 }
