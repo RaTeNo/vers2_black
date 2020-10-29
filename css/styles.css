@@ -6782,7 +6782,7 @@ button:disabled {
 }
 
 .contacts_info .info .val a {
-    color: #68adff;
+    color: #fff;
 
     display: inline-block;
 
@@ -8047,9 +8047,6 @@ header .flexMenu-popup .item .item:hover .sub_menu{
   opacity: 1;
 }
 
-
-
-+/*Новый фильтр*/
 
 
 .tab_filter{
