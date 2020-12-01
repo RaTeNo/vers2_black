@@ -1757,10 +1757,8 @@ aside .search form {
     flex-wrap: wrap;
 }
 
-aside .search ::-webkit-input-placeholder,
-aside .search :-moz-placeholder,
-aside .search :-ms-input-placeholder {
-    color: #898989;
+ aside .search .input::placeholder {
+    color: #fff;
 }
 
 aside .search .input {

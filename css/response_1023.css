@@ -1506,4 +1506,11 @@
     .tab_filter_title{
         color:#000;
     }
+
+    .irs-bar{
+        background: var(--main_color1);
+    }
+    .irs-single, .irs-from, .irs-to{
+        color:black;
+    }
 }
