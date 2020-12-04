@@ -1217,7 +1217,7 @@ header .contacts .phones>*:before {
 }
 
 header .bottom {
-    background: var(--main_color2);
+    background: var(--main_color1);
 }
 
 header .menu {
