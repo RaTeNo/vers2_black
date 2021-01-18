@@ -8263,3 +8263,8 @@ aside .cats label:after{
 .tab_filter_title.active i{
     height:20px;
 }
+
+
+.main_slider  .owl-carousel .owl-nav span{
+    font-family: 'Gilroy', 'Arial', sans-serif;
+}
